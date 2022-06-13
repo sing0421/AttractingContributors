@@ -15,9 +15,13 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My Project (Emoji-collection)
+What is your favorite emoji?
+One or more is fine.
+Send us a Pull Request!
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# List of Emoji
+1. 😆😆😆😆😆😆😆😆
+2. 💃🕺
