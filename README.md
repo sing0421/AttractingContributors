@@ -18,7 +18,7 @@ To complete the assignment, please do the following:
 # My Project (Emoji-collection)
 What is your favorite emoji?<br/>
 One or more is fine.<br/>
-Send us a Pull Request!
+Send me a Pull Request!
 
 # List of Emoji
 1. 😆😆😆😆😆😆😆😆
