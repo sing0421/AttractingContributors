@@ -16,8 +16,8 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My Project (Emoji-collection)
-What is your favorite emoji?
-One or more is fine.
+What is your favorite emoji?<br/>
+One or more is fine.<br/>
 Send us a Pull Request!
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
