@@ -20,8 +20,6 @@ What is your favorite emoji?<br/>
 One or more is fine.<br/>
 Send us a Pull Request!
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
 # List of Emoji
 1. 😆😆😆😆😆😆😆😆
 2. 💃🕺
