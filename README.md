@@ -26,7 +26,9 @@ Please tell me your favorite MUSICIAN(including band). I wanna know a whole new 
 - FLOW
 - Nirvana
 - Haruy
-- Noriyuki Makihara
-- UVERWorld
-- Alexandros
 - Dragonforce
+- Madeon
+- ぐっさん  
+- Noriyuki Makihara  
+- UVERWorld  
+- Alexandros  
