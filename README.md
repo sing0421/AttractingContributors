@@ -14,4 +14,5 @@ ex) Netflix
 4. 週刊少年ジャンプ定期購読
 5. youtube premium
 6. u-next
-7. 
+7. Spotify
+8. 
