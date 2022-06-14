@@ -27,3 +27,7 @@ Please tell me your favorite MUSICIAN(including band). I wanna know a whole new 
 - Nirvana
 - Haruy
 - Madeon
+- ぐっさん  
+- Noriyuki Makihara  
+- UVERWorld  
+- Alexandros  
