@@ -28,3 +28,4 @@ Example
 ・宇多田ヒカル 'One Last Kiss'  
 
 # List of Hobby
+1. GReeeeN 'Green boys'
