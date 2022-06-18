@@ -16,15 +16,15 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My project (Music-collection) 
-I'd like to know your favorite music.
+I'd like to know your favorite music.  
 あなたの好きな音楽が知りたいです。
 
-Please add your favorite singer name and song title to the 'List of Hobby'.
+Please add your favorite singer name and song title to the 'List of Hobby'.  
 好きな歌手名と曲名を「List of Hobby」に追加してください。
 
-Example
-・BTS 'Dynamite'
-例
-・宇多田ヒカル 'One Last Kiss'
+Example  
+・BTS 'Dynamite'  
+例  
+・宇多田ヒカル 'One Last Kiss'  
 
 # List of Hobby
