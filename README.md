@@ -15,9 +15,16 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My project (Music-collection) 
+I'd like to know your favorite music.
+あなたの好きな音楽が知りたいです。
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+Please add your favorite singer name and song title to the 'List of Hobby'.
+好きな歌手名と曲名を「List of Hobby」に追加してください。
+
+Example
+・BTS 'Dynamite'
+例
+・宇多田ヒカル 'One Last Kiss'
 
 # List of Hobby
